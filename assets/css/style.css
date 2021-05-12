@@ -11,6 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  background-color: #F5DEB3;
 }
 
 a {
@@ -69,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #987654;
   overflow-y: auto;
 }
 
@@ -89,6 +90,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align-last: center;
   font-family: "Poppins", sans-serif;
 }
+
 
 #header .profile h1 a, #header .profile h1 a:hover {
   color: #fff;
